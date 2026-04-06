@@ -1,4 +1,4 @@
-print ("Hola Mundo")
+print ("Hola Mundo desde auxiliar")
 
 numero = int(input("Ingrese un numero:"))
 
